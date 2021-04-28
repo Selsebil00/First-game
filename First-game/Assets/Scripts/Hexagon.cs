@@ -5,7 +5,9 @@ using UnityEngine;
 public class Hexagon : MonoBehaviour
 {
     public Rigidbody2D rb;
-    public float theSpeed = 3f;    
+    public float theSpeed = 3f;
+    public int Score; 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,8 +22,12 @@ public class Hexagon : MonoBehaviour
            if (transform.localScale.x <= 0.05f)
         {
             Destroy(gameObject);
+            Score = Score + 1;
+           
         } 
 
 
     }
-}
+
+  
+    }
