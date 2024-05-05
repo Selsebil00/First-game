@@ -1,2 +1,9 @@
-# First-game
-My first hypercasual game : it's is a mobile video game which is easy-to-play ; with a very minimalistic user interfaces
+## Free Buble
+
+- Game crafted using Unity and programmed in C#.
+
+My debut hypercasual game is a mobile video game designed for easy-to-play enjoyment. It boasts a very minimalistic user interface, ensuring a straightforward and immersive gaming experience
+
+
+
+[See the play video more here](https://www.youtube.com/shorts/JsvABeSFqU8)
