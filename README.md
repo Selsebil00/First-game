@@ -2,7 +2,7 @@
 
 - Game crafted using Unity and programmed in C#.
 
-My debut hypercasual game is a mobile video game designed for easy-to-play enjoyment. It boasts a very minimalistic user interface, ensuring a straightforward and immersive gaming experience
+My first hypercasual game is a mobile video game designed for easy-to-play enjoyment. It boasts a very minimalistic user interface, ensuring a straightforward and immersive gaming experience
 
 
 
